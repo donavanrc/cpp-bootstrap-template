@@ -15,3 +15,6 @@ build
 # Visual studio code stuff
 .vs
 .vscode
+
+# Project stuff
+External/Dependencies

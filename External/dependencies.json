@@ -1,0 +1,12 @@
+{
+    "dependencies": [
+        {
+            "name": "spdlog",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/gabime/spdlog",
+                "version": "v1.12.0"
+            }
+        }
+    ]
+}
