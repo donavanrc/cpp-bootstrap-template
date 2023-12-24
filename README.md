@@ -2,7 +2,7 @@
 
 This template serves as the base to create C++ projects.
 
-## Project build
+## Project building
 
 Visual Studio:
 
