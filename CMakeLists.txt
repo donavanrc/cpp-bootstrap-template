@@ -16,4 +16,6 @@ if(NOT(${result} EQUAL 0))
     message(FATAL_ERROR "Failed to run setup.py")
 endif()
 
+include_directories(External/Dependencies/spdlog/include)
+
 add_subdirectory(Examples/HelloWorld)
