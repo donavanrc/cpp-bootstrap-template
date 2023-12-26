@@ -1,0 +1,13 @@
+#Format Style Options - Created with Clang Power Tools
+BasedOnStyle: Chromium
+IndentWidth: 4
+AccessModifierOffset: -4
+AlignAfterOpenBracket: DontAlign
+BreakBeforeBraces: Allman
+ColumnLimit: 120
+ContinuationIndentWidth: 4
+IndentCaseLabels: false
+NamespaceIndentation: All
+TabWidth: 4
+BinPackParameters: true
+SortIncludes: false
